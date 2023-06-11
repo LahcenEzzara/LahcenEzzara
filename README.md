@@ -11,7 +11,7 @@
 
 ### Hi there 👋
 
-I'm **Lahcen Ezzara**, I'm an **Artificial Intelligence & Computer Engineering student @ENSAM Casablanca, Hassan II University of Casablanca** 💻. | Tech Enthusiast | Python Passionate | Entrepreneurship Enthusiast.
+I'm **Lahcen Ezzara**, I'm an **Artificial Intelligence & Computer Engineering student @ENSAM Casablanca, Hassan II University of Casablanca** 💻. Tech Enthusiast | Python Passionate | Entrepreneurship Enthusiast.
 
 
 ## Languages and Tools 
@@ -22,4 +22,6 @@ I'm **Lahcen Ezzara**, I'm an **Artificial Intelligence & Computer Engineering s
 
 ## My Git References 💻
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LahcenEzzara&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LahcenEzzara&langs_count=8&layout=compact&theme=algolia)](https://github.com/LahcenEzzara/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LahcenEzzara&show_icons=true&theme=algolia&count_private=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LahcenEzzara&langs_count=8&layout=compact&theme=algolia)](https://github.com/LahcenEzzara/github-readme-stats)
