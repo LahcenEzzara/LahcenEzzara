@@ -11,7 +11,7 @@
 
 ### Hi there 👋
 
-I'm **Lahcen Ezzara**, I'm an **Artificial Intelligence & Computer Engineering student @ENSAM Casablanca, Hassan II University of Casablanca** 💻. Tech Enthusiast | Python Passionate | Entrepreneurship Enthusiast.
+I'm **Lahcen Ezzara**, I'm an **Artificial Intelligence & Software Engineering student @ENSAM Casablanca, Hassan II University of Casablanca**
 
 
 ## Languages and Tools 
