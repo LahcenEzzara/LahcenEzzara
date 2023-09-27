@@ -28,6 +28,29 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/lahcen-ezzara" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:ezzara.lahcen@ensam-casa.ma" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/LahcenEzzara" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.instagram.com/lahcenezzara" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/MrLahcenEzzara" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://twitter.com/LahcenEzzara" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LahcenEzzara.LahcenEzzara&"  />
 </div>
 
@@ -60,19 +83,28 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LahcenEzzara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LahcenEzzara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=LahcenEzzara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LahcenEzzara/count.svg?"  />
-</div>
+<img src="https://raw.githubusercontent.com/LahcenEzzara/LahcenEzzara/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://profile-counter.glitch.me/LahcenEzzara/count.svg?"  />
 </div>
 
 ###
