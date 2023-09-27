@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I'm **Lahcen Ezzara** from **Morocco**.<br><br>- 📚 I'm currently Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca.</p>
+<p align="left">I'm <strong>Lahcen Ezzara</strong> from <strong>Morocco</strong>.<br><br>- 📚 I'm currently Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca.</p>
 
 ###
 
