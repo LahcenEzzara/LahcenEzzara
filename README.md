@@ -11,7 +11,7 @@
 
 ### Hi there 👋
 
-I'm **Lahcen Ezzara**, I'm an **Artificial Intelligence & Software Engineering student @ENSAM Casablanca, Hassan II University of Casablanca** .
+I'm **Lahcen Ezzara**, I'm an **Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca** .
 
 
 ## Languages and Tools 
