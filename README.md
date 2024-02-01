@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lahcen</h1>
-<h3 align="center">Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca</h3>
+<h1 align="center">Hi 👋, I'm Lahcen Ezzara</h1>
+<h3 align="center">Artificial Intelligence & Computer Engineering Student at ENSAM Casablanca, Hassan II University of Casablanca | Python Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahcenezzara&label=Profile%20views&color=0e75b6&style=flat" alt="lahcenezzara" /> </p>
 
